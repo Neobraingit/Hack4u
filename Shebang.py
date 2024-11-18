@@ -6,3 +6,6 @@ if __name__== '__main__':
     print ('Soy el módulo principal')
 else:
     print ('No soy el módulo principal')
+    
+
+# Las clases se ponen con la primera letra en mayúscula y las funcines en minúsculas
