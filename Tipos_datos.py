@@ -10,14 +10,16 @@ ip_address = '192.168.1.145' # Aunque sean números, al ir entre comillas serán
 
 # LISTAS
 
-# Las listas son contenedores que pueden guardar diferentes tipos de datos. Van con corchetes.
+# Las listas son contenedores que pueden guardar diferentes tipos de datos. Van con corchetes
 
 lista = []
 
 # Con el método .append() añadiremos índices a la lista.
 # Podemos acceder a los índices de las listas con el formato []
 
-print (lista[1]) # En este caso, accedemos al índice 1, que comenzando a contar desde 0, será el segundo de la lista
+print (lista[1]) # En este caso, accedemos al índice 1, que, comenzando a contar desde 0, será el segundo de la lista
 
 '''--------------------------------------------------------'''
+
+
 
